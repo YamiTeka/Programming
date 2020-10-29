@@ -1,3 +1,3 @@
 ﻿  practis02.cpp
-C:\Users\79789\Desktop\Programming\Practis\practis02\practis02\practis02.cpp(9,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  practis02.vcxproj -> C:\Users\79789\Desktop\Programming\Practis\practis02\Debug\practis02.exe
+C:\Users\79789\Desktop\Programming\Practice\02\C++ 02\practis02\practis02.cpp(9,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  practis02.vcxproj -> C:\Users\79789\Desktop\Programming\Practice\02\C++ 02\Debug\practis02.exe
