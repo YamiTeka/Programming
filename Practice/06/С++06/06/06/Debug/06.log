@@ -1,0 +1,32 @@
+﻿  06.cpp
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(3,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(3,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(3,59): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(8,15): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(8,5): error C3861: setlocale: идентификатор не найден
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(10,5): error C2065: cin: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(11,53): error C2297: <<: недопустимо, правый оператор имеет тип "const char [21]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(11,56): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(11,53): warning C4552: "<<": результат выражения не используется
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(12,5): error C2065: cin: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(13,54): error C2297: <<: недопустимо, правый оператор имеет тип "const char [21]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(13,57): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(13,54): warning C4552: "<<": результат выражения не используется
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(14,5): error C2065: cin: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(17,112): error C2297: <<: недопустимо, правый оператор имеет тип "const char [51]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(17,115): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(17,112): warning C4552: "<<": результат выражения не используется
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(19,69): error C2297: <<: недопустимо, правый оператор имеет тип "const char [27]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(19,72): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(19,69): warning C4552: "<<": результат выражения не используется
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(22,22): error C2297: <<: недопустимо, правый оператор имеет тип "const char [3]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(22,26): error C2297: <<: недопустимо, правый оператор имеет тип "double"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(22,29): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(22,26): warning C4552: "<<": результат выражения не используется
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,21): error C2297: <<: недопустимо, правый оператор имеет тип "const char [4]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,27): error C2297: <<: недопустимо, правый оператор имеет тип "double"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,30): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,44): error C2297: <<: недопустимо, правый оператор имеет тип "const char [4]"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,49): error C2297: <<: недопустимо, правый оператор имеет тип "double"
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,52): error C2065: endl: необъявленный идентификатор
+C:\Users\79789\Desktop\Programming\Practice\06\С++06\06\06\06.cpp(26,49): warning C4552: "<<": результат выражения не используется
