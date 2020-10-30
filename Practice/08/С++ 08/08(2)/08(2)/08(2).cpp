@@ -8,6 +8,10 @@ int main()
 	char z;
 	cout << "Введите число-действие-число"<< endl;
 	cin >> a >> z >> b;
+	if (b == 0)
+		cout << "Делить на ноль нельзя" << endl;
+	else
+    
 	switch (z) {
 	case '+':
 	{c = a + b;
@@ -23,7 +27,10 @@ int main()
 	break;}
 	case '/':
 	{c = a / b;
-	cout << a << "/" << b << "=" << c; 
+	if (b == 0)
+		cout << "Деление на ноль нельзя" << endl;
+	else
+	    cout << a << "/" << b << "=" << c; 
 	break;}
 	}
 
