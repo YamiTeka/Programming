@@ -1,0 +1,19 @@
+﻿  38.cpp
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(79,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(79,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(83,53): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(83,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(106,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(106,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(110,53): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(110,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(129,25): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(135,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(135,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(142,44): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(142,29): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(150,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(150,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(132): warning C4715: operator-: значение возвращается не при всех путях выполнения
+C:\Users\79789\Desktop\Programming\Practice\38\38\38.cpp(102): warning C4715: operator+: значение возвращается не при всех путях выполнения
+  38.vcxproj -> C:\Users\79789\Desktop\Programming\Practice\38\38\Debug\38.exe
